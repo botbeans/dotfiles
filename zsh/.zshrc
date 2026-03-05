@@ -52,3 +52,6 @@ export PATH="$HOME/.local/bin:$PATH"
 export UV_PYTHON="3.13"
 
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# opencode
+export PATH=/Users/elvinsalcedo/.opencode/bin:$PATH

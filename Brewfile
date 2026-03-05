@@ -1,33 +1,58 @@
+tap "jandedobbeleer/oh-my-posh"
+tap "nikitabobko/tap"
 brew "bat"
+brew "cask"
 brew "eza"
+brew "fd"
 brew "fzf"
+brew "git"
+brew "htop"
+brew "imagemagick"
+brew "jq"
+brew "lazygit"
 brew "neovim"
+brew "nmap"
 brew "node"
+brew "python@3.12"
+brew "ripgrep"
+brew "rustscan"
 brew "starship"
+brew "stow"
 brew "tmux"
+brew "tree"
 brew "zplug"
 brew "zsh-syntax-highlighting"
-brew "git"
-
-
+brew "jandedobbeleer/oh-my-posh/oh-my-posh"
+cask "nikitabobko/tap/aerospace"
+cask "arc"
+cask "balenaetcher"
+cask "bitwarden"
+cask "brave-browser"
+cask "copilot-cli"
+cask "db-browser-for-sqlite"
+cask "discord"
 cask "ghostty"
+cask "hiddenbar"
 cask "maccy"
 cask "shottr"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+cask "spotify"
+cask "stats"
+cask "visual-studio-code"
+cask "wireshark-app"
+vscode "ajshortt.tokyo-hack"
+vscode "astral-sh.ty"
+vscode "catppuccin.catppuccin-vsc"
+vscode "charliermarsh.ruff"
+vscode "github.copilot-chat"
+vscode "github.github-vscode-theme"
+vscode "ms-azuretools.vscode-containers"
+vscode "ms-python.debugpy"
+vscode "ms-python.python"
+vscode "ms-python.vscode-python-envs"
+vscode "ms-vscode-remote.remote-ssh"
+vscode "ms-vscode-remote.remote-ssh-edit"
+vscode "ms-vscode.remote-explorer"
+vscode "ritwickdey.liveserver"
+vscode "tomphilbin.gruvbox-themes"
+vscode "vscodevim.vim"
+uv "net-scan"

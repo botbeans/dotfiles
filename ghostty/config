@@ -6,7 +6,7 @@ font-family = JetBrains Mono
 font-size = 13
 
 # Theme
-theme = TokyoNight Night
+theme = Catppuccin Macchiato
 
 # Window Configuration
 window-decoration = none
