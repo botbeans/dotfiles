@@ -69,6 +69,8 @@ keybind = ctrl+shift+l=resize_split:right,10
 # Close current split/pane
 keybind = cmd+w=close_surface
 
+custom-shader-animation = always
+custom-shader = /Users/elvinsalcedo/dotfiles/ghostty/shaders/ghostty-cursor-trails/boo-cursor.glsl
 
 # ============================================================
 # NOTES ON FEATURES THAT DON'T TRANSLATE DIRECTLY:
