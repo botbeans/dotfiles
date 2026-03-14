@@ -11,5 +11,6 @@ Personal configuration files for macOS development environment.
 - **Starship** - Cross-shell prompt
 
 ## Quick Install
+
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/dotfiles/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/botbeans/dotfiles/main/install.sh | bash
