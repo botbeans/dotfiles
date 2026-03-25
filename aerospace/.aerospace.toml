@@ -171,8 +171,8 @@ if.app-id = 'com.microsoft.edgemac'
 run = ['move-node-to-workspace 1']
 
 [[on-window-detected]]
-if.app-id = 'org.brave.browser'
-run = ['move-node-to-workspace 1']
+if.app-id = 'com.mitchellh.ghostty'
+run = ['move-node-to-workspace 2']
 
 [[on-window-detected]]
 if.app-id = 'com.microsoft.teams2'
@@ -183,12 +183,13 @@ if.app-id = 'com.microsoft.Outlook'
 run = ['move-node-to-workspace 3']
 
 [[on-window-detected]]
-if.app-id = 'com.mitchellh.ghostty'
-run = ['move-node-to-workspace 2']
+if.app-id = 'com.spotify.client'
+run = ['move-node-to-workspace 8']
 
 [[on-window-detected]]
-if.app-id = 'notion.id'
-run = ['move-node-to-workspace 4']
+if.app-id = 'org.brave.browser'
+run = ['move-node-to-workspace 9']
+
 
 # [workspace-to-monitor-force-assignment]
 # 1 = 'main'                  # Monitor sequence number from left to right. 1-based indexing
