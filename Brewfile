@@ -12,6 +12,8 @@ brew "bat"
 brew "btop"
 # Emacs dependency management
 brew "cask"
+# Terminal-based dashboard for managing cron jobs locally and on servers
+brew "cronboard"
 # Modern, maintained replacement for ls
 brew "eza"
 # Simple, fast and user-friendly alternative to find
@@ -26,6 +28,8 @@ brew "git"
 brew "imagemagick"
 # Lightweight and flexible command-line JSON processor
 brew "jq"
+# Handy way to save and run project-specific commands
+brew "just"
 # Simple terminal UI for git commands
 brew "lazygit"
 # Deep clean and optimize your Mac
@@ -104,7 +108,6 @@ cask "visual-studio-code"
 cask "wireshark-app"
 vscode "ms-azuretools.vscode-containers"
 vscode "ms-vscode-remote.remote-containers"
-uv "dutyy"
 uv "net-scan"
 uv "posting"
 uv "pre-commit"
