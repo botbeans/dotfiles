@@ -80,8 +80,6 @@ cask "db-browser-for-sqlite"
 cask "dbeaver-community"
 # Voice and text chat software
 cask "discord"
-# Web browser
-cask "firefox@developer-edition"
 # Terminal emulator that uses platform-native UI and GPU acceleration
 cask "ghostty"
 # Utility to hide menu bar items
@@ -108,6 +106,5 @@ cask "visual-studio-code"
 cask "wireshark-app"
 vscode "ms-azuretools.vscode-containers"
 vscode "ms-vscode-remote.remote-containers"
-uv "net-scan"
-uv "posting"
+uv "net-scan", source: "file:///Users/elvinsalcedo/dev/net-scan"
 uv "pre-commit"
