@@ -62,8 +62,7 @@ brew "wireshark", link: false
 brew "zplug"
 # Fish shell like syntax highlighting for zsh
 brew "zsh-syntax-highlighting"
-# AeroSpace is an i3-like tiling window manager for macOS
-cask "nikitabobko/tap/aerospace"
+cask "aerospace"
 # Chromium based browser
 cask "arc"
 # Tool to flash OS images to SD cards & USB drives
