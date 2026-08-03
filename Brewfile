@@ -79,6 +79,8 @@ cask "db-browser-for-sqlite"
 cask "dbeaver-community"
 # Voice and text chat software
 cask "discord"
+# Web browser
+cask "firefox"
 # Terminal emulator that uses platform-native UI and GPU acceleration
 cask "ghostty"
 # Utility to hide menu bar items
