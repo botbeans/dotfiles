@@ -105,7 +105,9 @@ cask "steam"
 cask "visual-studio-code"
 # Network protocol analyzer
 cask "wireshark-app"
+# Video communication and virtual meeting platform
+cask "zoom"
 vscode "ms-azuretools.vscode-containers"
 vscode "ms-vscode-remote.remote-containers"
-uv "net-scan", source: "file:///Users/elvinsalcedo/dev/net-scan"
+uv "net-scan"
 uv "pre-commit"
