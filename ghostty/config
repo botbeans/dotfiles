@@ -9,12 +9,14 @@ font-size = 13
 theme = Kanagawa Wave
 
 # Window Configuration
-window-decoration = none
+window-decoration = client 
+macos-titlebar-style = hidden
+
 window-padding-x = 0
 window-padding-y = 0
 
 # Background (Ghostty doesn't support blur on macOS like WezTerm)
-background-opacity = 1.0
+background-opacity = 0.90
 
 # Initial window size (approximate)
 window-width = 180
